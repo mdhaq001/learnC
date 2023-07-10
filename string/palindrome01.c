@@ -1,5 +1,9 @@
 /* This piece of program takes a user input String and tests it for being Palindrome 
-by reverrsiong it and checking of the String   */
+by reverrsiong it and checking the symmetry of the String.   
+
+Author: MdHaq
+*/
+
 
 #include<stdio.h>
 
